@@ -1,9 +1,9 @@
-Flask
+flask
 flask-cors
-opencv-python
 deepface
+opencv-python
 pillow
 pytesseract
-tensorflow
+tensorflow==2.15.0
 tf-keras
 
